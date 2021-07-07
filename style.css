@@ -4,10 +4,11 @@
     text-shadow: darkslategrey;
     font-weight: 700;
     flex-direction: row-reverse;
+    font-size: 40px;
 }
 .middle{
     display: flex;
-    padding-top: 15%;
+    padding-top: 8%;
     padding-left: 5%;
 
 }
@@ -23,4 +24,8 @@
     margin-bottom: 2%;
     border-radius: 10%;
     
+}
+.wish{
+    color:whitesmoke;
+    font-size: 40px;
 }
